@@ -1,4 +1,4 @@
-title: Announcement
+# Announcement
 
 Hello everyone,
 
