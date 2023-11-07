@@ -1,4 +1,3 @@
-# Announcement
 
 Hello everyone,
 
