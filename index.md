@@ -1,3 +1,5 @@
+title: Announcement
+
 Hello everyone,
 
 As the original development team is currently focusing on the advancement of other projects, the related development progress of MARO has stalled. Starting this week, Howe and I will jointly form a new team to be responsible for the subsequent development of the MARO main chain and the development of related new applications.
