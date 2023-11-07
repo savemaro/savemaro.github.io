@@ -1,8 +1,8 @@
 url: https://savemaro.org # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:  # the subpath of your site, e.g. /blog
-title: Save MARO
+title:
 logo: 
 description: 
 
 # documents on landing page
-telegram: https://t.me/savemaro
+# telegram: https://t.me/savemaro
