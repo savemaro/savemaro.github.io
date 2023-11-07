@@ -9,7 +9,7 @@ In the coming week, we will publish a short-term plan on MARO's progress in the 
 
 We welcome more developers from the community to actively participate in the MARO project, fostering a more decentralized ecosystem for MARO. Throughout this process, the Foundation will do its best to provide official support to developers.
 
-If you have any questions or suggestions, please feel free to contact us.
+If you have any questions or suggestions, please feel free to contact us. 
 
 [Liu Peng](https://t.me/PDUPUB)
 [Howe](https://t.me/HoweKuo)
